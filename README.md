@@ -33,8 +33,10 @@ The objective is to build an image classification model to categorize food image
 
 ## How to Run
 
-1. Clone this repository.
-2. Install dependencies:
+1. Clone this repository:
+2. ```bash
+   https://github.com/vashu2425/FoodDetectionAndClassification-CNN.git
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
